@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-25T15:54:08 AST" name="Default suite" finished-at="2022-07-25T15:55:36 AST" duration-ms="87480">
+  <suite started-at="2022-07-29T18:12:43 AST" name="Default suite" finished-at="2022-07-29T18:15:46 AST" duration-ms="182917">
     <groups>
     </groups>
-    <test started-at="2022-07-25T15:54:08 AST" name="Default test" finished-at="2022-07-25T15:55:36 AST" duration-ms="87480">
-      <class name="XPath_WE_MultipleAttribute">
-        <test-method signature="xPath()[pri:0, instance:XPath_WE_MultipleAttribute@37271612]" started-at="2022-07-25T15:54:08 AST" name="xPath" finished-at="2022-07-25T15:55:36 AST" duration-ms="87420" status="PASS">
+    <test started-at="2022-07-29T18:12:43 AST" name="Default test" finished-at="2022-07-29T18:15:46 AST" duration-ms="182917">
+      <class name="Day3.Example_for_Basic_Type_of_XPath">
+        <test-method signature="xPath()[pri:0, instance:Day3.Example_for_Basic_Type_of_XPath@e4487af]" started-at="2022-07-29T18:12:43 AST" name="xPath" finished-at="2022-07-29T18:15:46 AST" duration-ms="182790" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- xPath -->
-      </class> <!-- XPath_WE_MultipleAttribute -->
+      </class> <!-- Day3.Example_for_Basic_Type_of_XPath -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

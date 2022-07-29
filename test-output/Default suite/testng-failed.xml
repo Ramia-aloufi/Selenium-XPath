@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="XPath_WE_MultipleAttribute">
+      <class name="Day3.Example_for_Basic_Type_of_XPath">
         <methods>
           <include name="xPath"/>
         </methods>
-      </class> <!-- XPath_WE_MultipleAttribute -->
+      </class> <!-- Day3.Example_for_Basic_Type_of_XPath -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
